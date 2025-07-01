@@ -1,6 +1,6 @@
 # MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io
 
-![Demo App](https://ibb.co/sp5Ksdfy)
+![Demo App](https://i.ibb.co/DPG9wHJ5/full-stack-chat-App.png)
 
 Some Features:
 
